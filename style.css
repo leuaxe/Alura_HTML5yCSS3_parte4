@@ -150,4 +150,7 @@ td,th{
     padding: 8px 15px;
 }
 
-
+/*Aqui inicia el css para nuestro home*/
+.banner{
+    width: 100%;
+}
